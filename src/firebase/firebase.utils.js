@@ -3,7 +3,7 @@ import 'firebase/firestore'
 import 'firebase/auth'
 
 var config = {
-    apiKey: "ENTER YOUR OWN",
+    apiKey: "BCCa0t08lSIbafeJAEDOD3vEasbvKAnA8RecuCv6UQfmuCIhnHHTRwe-3v8tEYme303R1rjl_ADc8BtumviPCVU",
     authDomain: "ecom-db-f8713.firebaseapp.com",
     databaseURL: "https://ecom-db-f8713.firebaseio.com",
     projectId: "ecom-db-f8713",
